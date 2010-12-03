@@ -1,3 +1,4 @@
+# rspec helper
 require 'spec_helper'
 
 
